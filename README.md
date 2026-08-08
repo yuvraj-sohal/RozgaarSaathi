@@ -131,24 +131,35 @@ The `reviews` application handles the application's review-related functionality
 
 ## 📸 Screenshots
 
-Screenshots will be added here to demonstrate the major parts of the application.
+## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" alt="Rozgaar Saathi Home Page" width="900">
 
-### Client Dashboard
+### 🔐 Login & Authentication
 
-![Client Dashboard](screenshots/client-dashboard.png)
+<img src="screenshots/login.png" alt="Rozgaar Saathi Login Page" width="900">
 
-### Hunarbaaz Dashboard
+### 👤 Client Dashboard
 
-![Hunarbaaz Dashboard](screenshots/hunarbaaz-dashboard.png)
+<img src="screenshots/client-dashboard.png" alt="Client Dashboard" width="900">
 
-### Hunarbaaz Search
+### 🔎 Browse Hunarbaaz
 
-![Hunarbaaz Search](screenshots/hunarbaaz-search.png)
+<img src="screenshots/hunarbaaz-list.png" alt="Browse Hunarbaaz" width="900">
 
+### 🧑‍🔧 Hunarbaaz Profile
+
+<img src="screenshots/hunarbaaz-profile.png" alt="Hunarbaaz Profile" width="900">
+
+### 📋 Work Request
+
+<img src="screenshots/work-request.png" alt="Work Request" width="900">
+
+### 🛠️ Hunarbaaz Dashboard
+
+<img src="screenshots/hunarbaaz-dashboard.png" alt="Hunarbaaz Dashboard" width="900">
 ### Worker Profile
 
 ![Worker Profile](screenshots/worker-profile.png)
