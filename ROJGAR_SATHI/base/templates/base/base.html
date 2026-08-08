@@ -30,7 +30,7 @@
   <div class="container-fluid" id="navbar-cont">
     <a class="navbar-brand fw-bold fs-4 d-flex align-items-center" href="{% url 'home' %}">
       <img src="{% static 'base/images/logo.png' %}" style="height: 55px; width: 65px;" class="me-2">
-      <span class="text-white">Rozgaar Saathi</span>
+      <span class="text-white" style="font-family:'Times New Roman';">Rozgaar Saathi</span>
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -42,19 +42,19 @@
       <ul class="navbar-nav align-items-center">
 
         <li class="nav-item">
-          <a class="nav-link nav-anim" href="{% url 'home' %}">
-            <i class="bi bi-house-door me-1"></i> Home
+          <a class="nav-link nav-anim" href="{% url 'home' %}"  style="font-family:'Times New Roman';">
+            <i class="bi bi-house-door me-1""></i> Home
           </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link nav-anim" href="{% url 'about' %}">
-            <i class="bi bi-info-circle me-1"></i> About Us
+          <a class="nav-link nav-anim" href="{% url 'about' %}" style="font-family:'Times New Roman';">
+            <i class="bi bi-info-circle me-1" ></i> About Us
           </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link nav-anim" href="{% url 'reviews:contact_review' %}">
+          <a class="nav-link nav-anim" href="{% url 'reviews:contact_review' %}" style="font-family:'Times New Roman';">
             <i class="bi bi-envelope me-1"></i> Contact Us
           </a>
         </li>
@@ -62,19 +62,19 @@
         {% if user.is_authenticated %}
           {% if user.clientprofile %}
           <li class="nav-item">
-              <a class="nav-link nav-anim" href="{% url 'client:all_profiles' %}">
+              <a class="nav-link nav-anim" href="{% url 'client:all_profiles' %}"  style="font-family:'Times New Roman';">
                 <i class="bi bi-people me-1"></i> Browse Hunarbaaz
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link nav-anim" href="{% url 'client:client_dashboard' %}">
+              <a class="nav-link nav-anim" href="{% url 'client:client_dashboard' %}"  style="font-family:'Times New Roman';>
                <i class="bi bi-person-circle me-1"></i> {{ user.username }}
               </a>
             </li>
             
           {% elif user.hunarbaaz %}
             <li class="nav-item">
-              <a class="nav-link nav-anim" href="{% url 'hunarbaaz:hunarbaaz_dashboard' %}">
+              <a class="nav-link nav-anim" href="{% url 'hunarbaaz:hunarbaaz_dashboard' %}"  style="font-family:'Times New Roman';">
                 <i class="bi bi-person-circle me-1"></i>{{ user.username }}
               </a>
             </li>
@@ -92,7 +92,7 @@
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link nav-anim" href="{% url 'login' %}">
+            <a class="nav-link nav-anim" href="{% url 'login' %}" >
               <i class="bi bi-box-arrow-in-right me-1"></i> Login / Register
             </a>
           </li>
