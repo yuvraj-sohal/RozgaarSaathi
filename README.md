@@ -1,5 +1,5 @@
 # Rozgaar Saathi
-Your Partner in Skill and Service!
+###Your Partner in Skill and Service!
 
 > A Django-based web platform that connects clients with skilled workers and simplifies the process of discovering, requesting, and managing local work services.
 
@@ -71,7 +71,11 @@ The project is designed around a simple idea:
 
 ## 🏗️ Project Architecture
 
-You can check architecture by running command: tree /f
+Rozgaar Saathi follows Django's modular application architecture, with separate applications for common functionality, clients, Hunarbaaz, and reviews.
+To view the complete project structure locally:
+```bash
+tree /f
+```
 
 ## 🔄 Application Workflow
 
@@ -264,15 +268,15 @@ Potential future improvements include:
 Built as a practical Django web development project to demonstrate full-stack web development, database integration, application architecture, user workflows, and version control.
 
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
-**Yuvraj Singh**
-B.Tech Computer Science & Engineering
-GitHub: [yuvraj-sohal](https://github.com/yuvraj-sohal)
+### Yuvraj Singh
+B.Tech Computer Science & Engineering  
+GitHub: [@yuvraj-sohal](https://github.com/yuvraj-sohal)
 
-**Rajbir Singh**
-B.Tech Computer Science & Engineering
-GitHub: [er-rajbir](https://github.com/er-Rajbir)
+### Rajbir Singh
+B.Tech Computer Science & Engineering  
+GitHub: [@er-Rajbir](https://github.com/er-Rajbir)
 
 
 ## 📄 License
