@@ -56,17 +56,17 @@ The project is designed around a simple idea:
 
 ## 🛠️ Technology Stack
 
-| Technology     | Usage                     |
-| -------------- | ------------------------- |
-| **Python**     | Backend programming       |
-| **Django**     | Web application framework |
-| **SQLite**     | Development database      |
-| **HTML5**      | Page structure            |
-| **CSS3**       | Styling and layouts       |
+| Technology | Usage |
+|------------|-------|
+| **Python** | Backend programming |
+| **Django** | Web application framework |
+| **SQLite** | Development database |
+| **HTML5** | Page structure |
+| **CSS3** | Styling and layouts |
 | **JavaScript** | Client-side functionality |
-| **Bootstrap**  | UI components and styling |
-| **Git**        | Version control           |
-| **GitHub**     | Source code hosting       |
+| **Bootstrap** | UI components and styling |
+| **Git** | Version control |
+| **GitHub** | Source code hosting |
 
 
 ## 🏗️ Project Architecture
