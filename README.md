@@ -129,29 +129,36 @@ The `hunarbaaz` application manages skilled-worker functionality including regis
 The `reviews` application handles the application's review-related functionality.
 
 
+
 ## 📸 Screenshots
 
-Screenshots will be added here to demonstrate the major parts of the application.
+### 🏠 Home Page
 
-### Home Page
+<img src="ROJGAR_SATHI/screenshots/home.png" alt="Rozgaar Saathi Home Page" width="900">
 
-![Home Page](screenshots/home.png)
+### 🔐 Login & Authentication
 
-### Client Dashboard
+<img src="ROJGAR_SATHI/screenshots/login.png" alt="Rozgaar Saathi Login Page" width="900">
 
-![Client Dashboard](screenshots/client-dashboard.png)
+### 👤 Client Dashboard
 
-### Hunarbaaz Dashboard
+<img src="ROJGAR_SATHI/screenshots/client-dashboard.png" alt="Client Dashboard" width="900">
 
-![Hunarbaaz Dashboard](screenshots/hunarbaaz-dashboard.png)
+### 🔎 Browse Hunarbaaz
 
-### Hunarbaaz Search
+<img src="ROJGAR_SATHI/screenshots/hunarbaaz-list.png" alt="Browse Hunarbaaz" width="900">
 
-![Hunarbaaz Search](screenshots/hunarbaaz-search.png)
+### 🧑‍🔧 Hunarbaaz Profile
 
-### Worker Profile
+<img src="ROJGAR_SATHI/screenshots/hunarbaaz-profile.png" alt="Hunarbaaz Profile" width="900">
 
-![Worker Profile](screenshots/worker-profile.png)
+### 📋 Work Request
+
+<img src="ROJGAR_SATHI/screenshots/work-request.png" alt="Work Request" width="900">
+
+### 🛠️ Hunarbaaz Dashboard
+
+<img src="ROJGAR_SATHI/screenshots/hunarbaaz-dashboard.png" alt="Hunarbaaz Dashboard" width="900">
 
 
 ## ⚙️ Installation
